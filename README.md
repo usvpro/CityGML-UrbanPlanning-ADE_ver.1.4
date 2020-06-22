@@ -60,3 +60,8 @@ The mechanism of Extended LOD in Urban Function module is implemented as associa
 <div align="center">
 <img width="297" alt="Screenshot 2020-06-22 at 22 32 20" src="https://user-images.githubusercontent.com/67227808/85293422-46ae8700-b4d8-11ea-9ea6-45dde2c8fd34.png">
 </div>
+
+## More information
+OGC CityGML is an open data model and XML-based format for the storage and exchange of semantic 3D city models. It is an application schema for the Geography Markup Language version 3.1.1 (GML3), the extendible international standard for spatial data exchange issued by the Open Geospatial Consortium (OGC) and the ISO TC211. The aim of the development of CityGML is to reach a common definition of the basic entities, attributes, and relations of a 3D city model. By means of so-called Application Domain Extensions (ADEs) the core model of CityGML can be extended systematically by application-specific attributes and object types.
+
+CityGML is an international OGC standard and can be used free of charge.
