@@ -37,4 +37,8 @@ This document targets on d) Statistical grid data for global analysis and visual
 ### Part 4: Public Transit Data Encoding Specification
 This document targets on e) Public transit information to consider urban function accumulation in regional planning, and defines a public transit (e.g. bus route, train route) as subclasses of the root class in CityGML.
 
+Figure 2 shows the conceptual structure of the i-UR Data model. The package “UrbanPlanning ADE 1.4” is a collection of four modules which are defined in each part of this encoding specification mentioned above.
+
+
+
 Furthermore, this document defines new Levels of Detail (LOD) for a broad description of city models. These extended LODs enable user to describe rough city models which do not have to be detailed but should be necessary regional or national planning. This ExtendedLOD concept is commonly applied to related modules, and the details of ExtendedLOD is described in Part 2 and Part 3 of this document where this concept is instantiated.
