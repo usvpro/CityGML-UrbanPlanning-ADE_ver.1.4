@@ -23,14 +23,16 @@ The i-UR Data is the combination of following data:
 - e)	Public transit information to consider urban function accumulation in regional planning
 
 The i-UR Data Encoding Specification targets on b) to e) data, as a) is already defined in City Geography Markup Language (CityGML). CityGML is an XML/GML based 3D data standard developed by Open Geospatial Consortium (OGC) for the representation, storage and exchange of 3D city models and is widely used in the application fields related to urban areas.
+
 The i-UR Data Encoding Specification is composed of four parts listed below. Each encoding specification is tied up with each component and is an extension of CityGML according to the rules of the Application Domain Extensions (ADE) to ensure data interoperability. Thus i-UR Data aims to be utilized in various application fields, such as disaster prevention, tourism and to carry out urban revitalization.
-Part 1: Urban Object Data Encoding Specification
+
+### Part 1: Urban Object Data Encoding Specification
 This document targets on b) Detailed information of city objects for analysis and defines them as properties of CityGML object.
-Part 2: Urban Function Data Encoding Specification	
+### Part 2: Urban Function Data Encoding Specification	
 This document targets on c) Constraints/conditions related to urban revitalization and defines constraints and conditions as subclasses of the root class in CityGML.
-Part 3: Statistical Grid Data Encoding Specification
+### Part 3: Statistical Grid Data Encoding Specification
 This document targets on d) Statistical grid data for global analysis and visualization, and defines a statistical grid as subclasses of the root class in CityGML to describe rough city models with a unified unit among cities. 
-Part 4: Public Transit Data Encoding Specification
+### Part 4: Public Transit Data Encoding Specification
 This document targets on e) Public transit information to consider urban function accumulation in regional planning, and defines a public transit (e.g. bus route, train route) as subclasses of the root class in CityGML.
 
 Furthermore, this document defines new Levels of Detail (LOD) for a broad description of city models. These extended LODs enable user to describe rough city models which do not have to be detailed but should be necessary regional or national planning. This ExtendedLOD concept is commonly applied to related modules, and the details of ExtendedLOD is described in Part 2 and Part 3 of this document where this concept is instantiated.
