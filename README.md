@@ -1,8 +1,7 @@
-# CityGML_ADE_i-UR1.4
+# CityGML-UrbanPlanning-ADE_ver.1.4
 
 Data Encoding Specification of i-Urban Revitalization
-- Urban Planning ADE –
-ver.1.4
+CityGML-UrbanPlanning-ADE_ver.1.4
 
 ## Introduction
 Urban planning has been contributing to the formation of healthy urban environments, preventing disorganized urban sprawl and encouraging infrastructure development in Japan. However, urban areas in Japan, which is facing depopulation and aging society, are at a big turning point. New social issues such as a rapid increase of empty apartments and lands, and non-universal design of facilities lie heavily on their sustainable development, especially regional area. Efficient urban management is required, and municipalities recognize the significance and importance of compact urban development from the perspective of administrative costs.
