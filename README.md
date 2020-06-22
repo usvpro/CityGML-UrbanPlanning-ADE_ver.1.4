@@ -22,6 +22,8 @@ The i-UR Data is the combination of following data:
 - d)	Statistical grid data for global analysis and visualization 
 - e)	Public transit information to consider urban function accumulation in regional planning
 
+<img width="482" alt="Screenshot 2020-06-22 at 22 24 35" src="https://user-images.githubusercontent.com/67227808/85292663-38ac3680-b4d7-11ea-8b63-6c341d3d27b1.png">
+
 The i-UR Data Encoding Specification targets on b) to e) data, as a) is already defined in City Geography Markup Language (CityGML). CityGML is an XML/GML based 3D data standard developed by Open Geospatial Consortium (OGC) for the representation, storage and exchange of 3D city models and is widely used in the application fields related to urban areas.
 
 The i-UR Data Encoding Specification is composed of four parts listed below. Each encoding specification is tied up with each component and is an extension of CityGML according to the rules of the Application Domain Extensions (ADE) to ensure data interoperability. Thus i-UR Data aims to be utilized in various application fields, such as disaster prevention, tourism and to carry out urban revitalization.
