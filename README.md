@@ -42,3 +42,5 @@ Figure 2 shows the conceptual structure of the i-UR Data model. The package “U
 <img width="395" alt="Screenshot 2020-06-22 at 22 27 09" src="https://user-images.githubusercontent.com/67227808/85292890-888afd80-b4d7-11ea-8dc5-f191eafb8cef.png">
 
 Furthermore, this document defines new Levels of Detail (LOD) for a broad description of city models. These extended LODs enable user to describe rough city models which do not have to be detailed but should be necessary regional or national planning. This ExtendedLOD concept is commonly applied to related modules, and the details of ExtendedLOD is described in Part 2 and Part 3 of this document where this concept is instantiated.
+
+<img width="435" alt="Screenshot 2020-06-22 at 22 28 27" src="https://user-images.githubusercontent.com/67227808/85293029-bbcd8c80-b4d7-11ea-8229-b67b25e4cdab.png">
