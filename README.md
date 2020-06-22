@@ -43,4 +43,8 @@ Figure 2 shows the conceptual structure of the i-UR Data model. The package “U
 
 Furthermore, this document defines new Levels of Detail (LOD) for a broad description of city models. These extended LODs enable user to describe rough city models which do not have to be detailed but should be necessary regional or national planning. This ExtendedLOD concept is commonly applied to related modules, and the details of ExtendedLOD is described in Part 2 and Part 3 of this document where this concept is instantiated.
 
+## Concept of Extended LOD
+### Introduction
+In city planning, it is necessary to harmonize with its higher plans, e.g. the national spatial strategy and the regional plan. These higher plans require rough city models which can be applied on a national or worldwide level for comparison and analysis of cities. For this purpose, this module defines two extended LODs for urban functions. The LOD-1 (minus one) for nationwide city models and the LOD-2 (minus two) for worldwide city models without inconsistency between LOD 0 to 4 as shown in Figure C-1. These extended LODs allow users to employ global 3D city models in policy making phases.
+
 <img width="435" alt="Screenshot 2020-06-22 at 22 28 27" src="https://user-images.githubusercontent.com/67227808/85293029-bbcd8c80-b4d7-11ea-8229-b67b25e4cdab.png">
