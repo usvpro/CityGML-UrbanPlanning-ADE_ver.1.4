@@ -52,4 +52,4 @@ In city planning, it is necessary to harmonize with its higher plans, e.g. the n
 ### Extended LODs for Urban Functions
 The mechanism of Extended LOD in Urban Function module is implemented as associaions of urf::_UrbanFunction, the root class of this module. To provide an overview of the real world using conceptual and virtual objects, this module defines urf::lod-1MultiGeometry and urf::lod-2MultiGeometry as shown in Figure C-1 to declare explicitly that these objects described in LOD-1 or LOD-2 represent the global city model.
 
-
+<img width="297" alt="Screenshot 2020-06-22 at 22 32 20" src="https://user-images.githubusercontent.com/67227808/85293422-46ae8700-b4d8-11ea-9ea6-45dde2c8fd34.png">
