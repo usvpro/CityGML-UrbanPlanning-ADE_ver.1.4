@@ -22,7 +22,9 @@ The i-UR Data is the combination of following data:
 - d)	Statistical grid data for global analysis and visualization 
 - e)	Public transit information to consider urban function accumulation in regional planning
 
+<div align="center">
 <img width="482" alt="Screenshot 2020-06-22 at 22 24 35" src="https://user-images.githubusercontent.com/67227808/85292663-38ac3680-b4d7-11ea-8b63-6c341d3d27b1.png">
+</div>
 
 The i-UR Data Encoding Specification targets on b) to e) data, as a) is already defined in City Geography Markup Language (CityGML). CityGML is an XML/GML based 3D data standard developed by Open Geospatial Consortium (OGC) for the representation, storage and exchange of 3D city models and is widely used in the application fields related to urban areas.
 
@@ -39,7 +41,9 @@ This document targets on e) Public transit information to consider urban functio
 
 Figure 2 shows the conceptual structure of the i-UR Data model. The package “UrbanPlanning ADE 1.4” is a collection of four modules which are defined in each part of this encoding specification mentioned above.
 
+<div align="center">
 <img width="395" alt="Screenshot 2020-06-22 at 22 27 09" src="https://user-images.githubusercontent.com/67227808/85292890-888afd80-b4d7-11ea-8dc5-f191eafb8cef.png">
+</div>
 
 Furthermore, this document defines new Levels of Detail (LOD) for a broad description of city models. These extended LODs enable user to describe rough city models which do not have to be detailed but should be necessary regional or national planning. This ExtendedLOD concept is commonly applied to related modules, and the details of ExtendedLOD is described in Part 2 and Part 3 of this document where this concept is instantiated.
 
@@ -47,9 +51,13 @@ Furthermore, this document defines new Levels of Detail (LOD) for a broad descri
 ### Introduction
 In city planning, it is necessary to harmonize with its higher plans, e.g. the national spatial strategy and the regional plan. These higher plans require rough city models which can be applied on a national or worldwide level for comparison and analysis of cities. For this purpose, this module defines two extended LODs for urban functions. The LOD-1 (minus one) for nationwide city models and the LOD-2 (minus two) for worldwide city models without inconsistency between LOD 0 to 4 as shown in Figure C-1. These extended LODs allow users to employ global 3D city models in policy making phases.
 
+<div align="center">
 <img width="435" alt="Screenshot 2020-06-22 at 22 28 27" src="https://user-images.githubusercontent.com/67227808/85293029-bbcd8c80-b4d7-11ea-8229-b67b25e4cdab.png">
+</div>
 
 ### Extended LODs for Urban Functions
 The mechanism of Extended LOD in Urban Function module is implemented as associaions of urf::_UrbanFunction, the root class of this module. To provide an overview of the real world using conceptual and virtual objects, this module defines urf::lod-1MultiGeometry and urf::lod-2MultiGeometry as shown in Figure C-1 to declare explicitly that these objects described in LOD-1 or LOD-2 represent the global city model.
 
+<div align="center">
 <img width="297" alt="Screenshot 2020-06-22 at 22 32 20" src="https://user-images.githubusercontent.com/67227808/85293422-46ae8700-b4d8-11ea-9ea6-45dde2c8fd34.png">
+</div>
