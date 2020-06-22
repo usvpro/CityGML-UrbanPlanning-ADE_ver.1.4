@@ -48,3 +48,8 @@ Furthermore, this document defines new Levels of Detail (LOD) for a broad descri
 In city planning, it is necessary to harmonize with its higher plans, e.g. the national spatial strategy and the regional plan. These higher plans require rough city models which can be applied on a national or worldwide level for comparison and analysis of cities. For this purpose, this module defines two extended LODs for urban functions. The LOD-1 (minus one) for nationwide city models and the LOD-2 (minus two) for worldwide city models without inconsistency between LOD 0 to 4 as shown in Figure C-1. These extended LODs allow users to employ global 3D city models in policy making phases.
 
 <img width="435" alt="Screenshot 2020-06-22 at 22 28 27" src="https://user-images.githubusercontent.com/67227808/85293029-bbcd8c80-b4d7-11ea-8229-b67b25e4cdab.png">
+
+### Extended LODs for Urban Functions
+The mechanism of Extended LOD in Urban Function module is implemented as associaions of urf::_UrbanFunction, the root class of this module. To provide an overview of the real world using conceptual and virtual objects, this module defines urf::lod-1MultiGeometry and urf::lod-2MultiGeometry as shown in Figure C-1 to declare explicitly that these objects described in LOD-1 or LOD-2 represent the global city model.
+
+
