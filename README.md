@@ -64,7 +64,7 @@ The mechanism of Extended LOD in Urban Function module is implemented as associa
 ## Samples
 There are currently three public data samples for the UrbanPlanning ADE.
 - Munakata City https://cesium.com/blog/2020/03/31/i-urban-renovation-visualizes-munakata/
-- Chino City
+- Chino City(in Japanese) https://www.city.chino.lg.jp/site/kashika/1004.html
 - Mutsu City
 
 ## More information
